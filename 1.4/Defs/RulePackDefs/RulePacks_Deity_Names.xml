@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Culture-specific content -->
+  <RulePackDef>
+    <defName>NamerDeityKTZhthyhl</defName>
+    <include>
+      <li MayRequire="Ludeon.RimWorld.Ideology">NamerDeityGlobal</li>
+    </include>
+    <rulePack>
+      <rulesStrings>
+        <li>name-&gt;[syl]</li>
+        <li>syl-&gt;Skull Lord</li>
+        <li>syl-&gt;Slaa</li>
+        <li>syl-&gt;Khorne</li>
+        <li>syl-&gt;Despoiler</li>
+        <li>syl-&gt;Tzeentch</li>
+        <li>syl-&gt;Changer of Ways</li>
+        <li>syl-&gt;Fly Lord</li>
+        <li>syl-&gt;Great Corruptor</li>
+        <li>syl-&gt;Nurgle</li>
+        <li>syl-&gt;Serpent </li>
+        <li>syl-&gt;Necoho</li>
+        <li>syl-&gt;Malal</li>
+        <li>syl-&gt;Kweethul</li>
+        <li>syl-&gt;Great Beast</li>
+        <li>syl-&gt;Blood God</li>
+        <li>syl-&gt;Brass Lord</li>
+        <li>syl-&gt;Slaanesh</li>
+        <li>syl-&gt;Zuvassin</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+</Defs>

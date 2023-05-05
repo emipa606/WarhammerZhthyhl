@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Shared content -->
+  <RulePackDef>
+    <defName>DeityTypeMakerKTZhthyhlG</defName>
+    <include>
+      <li>GlobalUtility</li>
+    </include>
+    <rulePack>
+      <rulesStrings>
+        <li>r_deityType-&gt;[god] of [memeConcept]</li>
+        <li>god-&gt;Master</li>
+        <li>god-&gt;God</li>
+        <li>god-&gt;Prince</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  <!-- Culture-specific content -->
+  <RulePackDef>
+    <defName>DeityTypeMakerKTZhthyhl</defName>
+    <include>
+      <li>DeityTypeMakerKTZhthyhlG</li>
+    </include>
+  </RulePackDef>
+</Defs>

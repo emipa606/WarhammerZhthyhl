@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Zhthyhl_Average_Normal</defName>
+    <graphicPath>Things/Zhthyhl/Head/Average_Normal</graphicPath>
+    <gender>None</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Zhthyhl_Average_Pointy</defName>
+    <graphicPath>Things/Zhthyhl/Head/Average_Pointy</graphicPath>
+    <gender>None</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Zhthyhl_Average_Wide</defName>
+    <graphicPath>Things/Zhthyhl/Head/Average_Wide</graphicPath>
+    <gender>None</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="NarrowBase">
+    <defName>Zhthyhl_Narrow_Normal</defName>
+    <graphicPath>Things/Zhthyhl/Head/Narrow_Normal</graphicPath>
+    <gender>None</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="NarrowBase">
+    <defName>Zhthyhl_Narrow_Pointy</defName>
+    <graphicPath>Things/Zhthyhl/Head/Narrow_Pointy</graphicPath>
+    <gender>None</gender>
+  </HeadTypeDef>
+</Defs>
