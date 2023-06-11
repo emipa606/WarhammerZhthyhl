@@ -68,3 +68,4 @@ ko-fi.com/kompadt
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2971802777]Last updated 2023-06-11

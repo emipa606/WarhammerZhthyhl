@@ -55,7 +55,7 @@
         <factionRelations>
           <li>
             <factions>
-              <li MayRequire="Kompadt.Warhammer.Deathjacks">DeathjacksFaction</li>
+              <li MayRequire="Mlie.WarhammerDeathjacks">DeathjacksFaction</li>
             </factions>
             <goodwill>
               <min>-100</min>
@@ -64,7 +64,7 @@
           </li>
           <li>
             <factions>
-              <li MayRequire="Kompadt.Warhammer.Skaven">EshinFaction</li>
+              <li MayRequire="Mlie.WarhammerSkaven">EshinFaction</li>
             </factions>
             <goodwill>
               <min>-75</min>

@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>cc788b43-f319-4151-b279-6e802db5fa3e</ID>
   <ModName>Warhammer: Zhthy'hl (Continued)</ModName>
-  <Version>1.4.0</Version>
+  <Version>1.4.1</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
